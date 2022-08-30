@@ -1,0 +1,30 @@
+[
+  {
+    "EmployeeID": 21,
+ "FirstName": "Ravi",
+    "LastName": "Patel",
+    "Gender": "Male",
+    "Email": "abc.com"
+  },
+  {
+    "EmployeeID": 22,
+    "FirstName": "Ranjeet",
+    "LastName": "Patel",
+    "Gender": "Male",
+    "Email": "abc.com"
+  },
+  {
+    "EmployeeID": 23,
+    "FirstName": "Rajendra",
+    "LastName": "Patel",
+    "Gender": "Male",
+    "Email": "abc.com"
+  },
+  {
+    "PersonId": 24,
+    "FirstName": "Aarav",
+    "LastName": "Patel",
+    "Gender": "Male",
+    "Email": "abc.com"
+  }
+]
